@@ -1,0 +1,18 @@
+C:\Users\Artem\Compiler\MathLang\bin\Debug\MathLang.exe
+C:\Users\Artem\Compiler\MathLang\bin\Debug\MathLang.pdb
+C:\Users\Artem\Compiler\MathLang\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Artem\Compiler\MathLang\obj\Debug\MathLang.csprojResolveAssemblyReference.cache
+C:\Users\Artem\Compiler\MathLang\obj\Debug\MathLang.exe
+C:\Users\Artem\Compiler\MathLang\obj\Debug\MathLang.pdb
+C:\Users\Artem\Desktop\MathLang\obj\Debug\MathLang.exe
+C:\Users\Artem\Desktop\MathLang\obj\Debug\MathLang.pdb
+C:\Users\Artem\Desktop\MathLang\bin\Debug\MathLang.exe
+C:\Users\Artem\Desktop\MathLang\bin\Debug\MathLang.pdb
+C:\Users\Artem\Desktop\MathLang\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Artem\Desktop\MathLang\obj\Debug\MathLang.csprojResolveAssemblyReference.cache
+C:\Users\Artem\Desktop\компил для сережи\MathLang\obj\Debug\MathLang.exe
+C:\Users\Artem\Desktop\компил для сережи\MathLang\obj\Debug\MathLang.pdb
+C:\Users\Artem\Desktop\компил для сережи\MathLang\bin\Debug\MathLang.exe
+C:\Users\Artem\Desktop\компил для сережи\MathLang\bin\Debug\MathLang.pdb
+C:\Users\Artem\Desktop\компил для сережи\MathLang\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Artem\Desktop\компил для сережи\MathLang\obj\Debug\MathLang.csprojResolveAssemblyReference.cache

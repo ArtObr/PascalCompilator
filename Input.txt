@@ -1,0 +1,30 @@
+program task;
+const A:=6; B:=true;
+var a,b,i,j,k: integer;
+	
+	c: boolean;
+
+function max2(a,b: integer) : integer;
+	var p: integer;
+	begin
+	if (a>b)
+	then
+		max2 := a;
+			else
+		max2 := b;
+	end;
+
+	function max3(a,b,g: integer) : integer;
+	var p: integer;
+	begin
+		max3:= max2(max2(a,g),b);
+		
+	end;
+
+begin
+a := 3;
+for i:= 1 to 10 do
+begin
+Writeln(true);
+end;
+end.

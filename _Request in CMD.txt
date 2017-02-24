@@ -1,0 +1,2 @@
+"C:\Users\Artem\Compiler\MathLang\result.exe" pause
+result.exe pause
